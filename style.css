@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#fetchDataButton:hover{
+    background-color: blue;
+    color: white;
+}
+
+#fetchDataButton {
+    display: block;
+    padding: 10px 15px;
+    background-color: yellow;
+    
+}
+
+.container {
+    padding: 0 15px;
+}
+
+table, th, td {
+    text-align: justify;
+    padding: 10px;
+    border: 1px solid black;
+}
+
+th{
+    background-color: rgba(0, 0, 0, 0.729);
+    border:5px solid white;
+    color:white;
+}
+
+td {
+    text-align: justify;
+}
